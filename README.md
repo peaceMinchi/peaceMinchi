@@ -7,8 +7,6 @@
 <p align="center">:fire:멋진 개발자가 되기 위해 늘 노력중입니다:fire:</p>
 
 <br>
-<br>
-
 </br>
 <div align=center><h1>🛠 STACKS 🛠</h1></div>
 
@@ -34,6 +32,5 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
