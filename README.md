@@ -8,6 +8,12 @@
 
 <br>
 </br>
+
+<h3 align="center"><b>❤️I like...❤️</b></h3>
+<p align="center">💪Excercise, 🎸Music, 💻Programming, 🎥Movies</p>
+
+<br>
+</br>
 <div align=center><h1>🛠 STACKS 🛠</h1></div>
 
 <div align=center> 
